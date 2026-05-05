@@ -1,0 +1,31 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0f2c;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2a2f4c;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="400" height="400" fill="url(#grad1)"/>
+
+  <!-- Image icon -->
+  <g transform="translate(200, 180)">
+    <!-- Image frame -->
+    <rect x="-80" y="-60" width="160" height="120" fill="none" stroke="#f5a623" stroke-width="3" rx="8"/>
+
+    <!-- Mountain silhouette -->
+    <polygon points="-60,-40 -20,-20 20,-35 60,-15 60,20 -60,20" fill="#f5a623" opacity="0.7"/>
+
+    <!-- Sun -->
+    <circle cx="40" cy="-30" r="15" fill="#f5a623"/>
+    <line x1="40" y1="-45" x2="40" y2="-50" stroke="#f5a623" stroke-width="2"/>
+    <line x1="55" y1="-30" x2="60" y2="-30" stroke="#f5a623" stroke-width="2"/>
+    <line x1="40" y1="-15" x2="40" y2="-10" stroke="#f5a623" stroke-width="2"/>
+    <line x1="25" y1="-30" x2="20" y2="-30" stroke="#f5a623" stroke-width="2"/>
+  </g>
+
+  <!-- Text -->
+  <text x="200" y="320" text-anchor="middle" fill="#f5a623" font-family="Arial, sans-serif" font-size="18" font-weight="bold">No Image</text>
+  <text x="200" y="345" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="14" opacity="0.8">LUXIVO</text>
+</svg>
