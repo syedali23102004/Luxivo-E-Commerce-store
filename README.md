@@ -6,6 +6,11 @@
 
 ## 🚀 Overview
 
+**Video Demo**:https://drive.google.com/file/d/1kHLyY9IVBZEJPxRA0UdxpJlWyTTDIw1O/view?usp=sharing
+
+
+
+
 **LUXIVO** is a fully-featured e-commerce platform built with Laravel 11+. It provides a complete shopping experience for customers and a powerful admin panel for store management. Key highlights:
 
 - Responsive frontend with product catalog, cart & checkout
